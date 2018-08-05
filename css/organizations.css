@@ -1,0 +1,15 @@
+.organization_link{
+margin:14px 0 5px 0;
+display:block;
+text-align:center}
+
+.organization_img{
+border:2px solid grey;
+-moz-border-radius:10px;
+-khtml-border-radius:10px;
+-webkit-border-radius:10px;
+border-radius:10px}
+
+hr{
+width:600px;
+margin:14px auto}

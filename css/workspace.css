@@ -1,0 +1,50 @@
+#upload{
+height:25px}
+
+#filretr{
+text-align:center;}
+
+#headadd{
+margin-top:10px;
+text-align:center}
+
+#files{
+list-style:none;
+margin:0 auto;
+padding:0;
+color:#1e3052}
+
+.filec{
+height:20px;
+position:relative;
+padding:1px 3px;
+width:654px;}
+
+.file{
+margin:0 auto 0 0;
+display:block;
+/*margin-right:20px;*/
+padding:1px 5px 1px 20px;
+text-decoration:none;
+width:610px;
+background:url(../img/file.png) no-repeat 1px 1px}
+
+.file:hover{
+padding:0 5px 0 20px;
+border:1px dashed #eee;
+background:#8eabd5 url(../img/file.png) no-repeat}
+
+.file:active{
+padding:0 5px 0 20px;
+border:1px solid #eee;
+background:#5c8cd0 url(../img/file.png) no-repeat}
+
+.delete{
+position:absolute;
+top:0;
+right:0;
+display:block;
+cursor:pointer;
+width:20px;
+height:20px;
+background:url(../img/delete.png) no-repeat 3px 3px}

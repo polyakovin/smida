@@ -1,0 +1,43 @@
+.bookcover{
+width:100px;
+border:none;
+border-bottom:1px dashed #5c8cd0;
+border-top:1px dashed #5c8cd0}
+
+.bookcover img{
+margin:5px;
+width:90px;
+height:120px;
+vertical-align:middle;
+border:1px dotted #5c8cd0}
+
+.bookdescr{
+border:none;
+vertical-align:top;
+border-bottom:1px dashed #5c8cd0;
+border-top:1px dashed #5c8cd0}
+
+.bookbox{min-height:210px}
+
+.book{
+float:left;
+margin:5px 15px 10px 10px;
+width:150px;
+height:200px;
+border:1px dotted #5c8cd0}
+
+.descr{text-align:left}
+
+#book_button{
+display:block;
+height:104px;
+width:456px;
+margin:0 auto;
+-moz-border-radius:10px;
+-khtml-border-radius:10px;
+-webkit-border-radius:10px;
+border-radius:10px}
+
+.book_button_ru{background-image:url(../img/book_button.jpg)}
+
+.book_button_en{background-image:url(../img/book_button_en.jpg)}

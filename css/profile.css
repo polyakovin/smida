@@ -1,0 +1,15 @@
+.user_block{
+min-height:180px;}
+
+.userbox{min-height:175px}
+
+.right{text-align:right}
+
+#user_photo{
+margin:5px 5px 5px 15px;
+border:2px dashed #5c8cd0;
+text-align:center;
+background-image:url(../img/nophoto.jpg);
+float:left;
+height:160px;
+width:120px}

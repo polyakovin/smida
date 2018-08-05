@@ -1,0 +1,22 @@
+.expert{min-height:180px}
+
+.expert_photo{
+margin:5px 5px 5px 15px;
+border:2px dashed #5c8cd0;
+text-align:center;
+background-image:url(../img/nophoto.jpg);
+float:left;
+height:160px;
+width:120px}
+
+a{text-decoration:none}
+
+p{font-size:16px}
+
+h1{margin-bottom:7px}
+
+h2{font-size:21px;
+text-align:center}
+
+hr{width:600px;
+margin:14px auto;}

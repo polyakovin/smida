@@ -1,0 +1,28 @@
+#news{
+margin:10px}
+
+#newstitle{
+margin:0}
+
+#newsauthor{
+text-align:right;
+margin:0}
+
+#newnews{
+text-align:center;
+margin:10px}
+
+#end_news{
+clear:both}
+
+pre img{
+display:block;
+margin:10px auto}
+
+/*.news_img_center{
+display:block;
+margin:10px auto}*/
+
+/*.news_img_left{
+margin:10px;
+float:left}*/
